@@ -1,16 +1,23 @@
-## Hi there 👋
+<h3 align="center">
+  Всем привет! :wave:
+</h3>
 
-<!--
-**SadykovIlnur/SadykovIlnur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Вот краткая информация обо мне:
+- Меня зовут Ильнур.
+- Я web backend разработчик.
+- Образование:   
+  - Степень бакалавра: Техническая физика, Кафедра ракетных двигателей, КНИТУ-КАИ им. А.Н.Туполева (2014).  
+  - Степень магистра, Теплоэнергетика и теплотехника, Кафедра ТиЭМ, КНИТУ-КАИ им. А.Н.Туполева (2016).
+  - Степень магистра, Chemical and Energy Engineering, Faculty of Process and Systems Engineering, Otto von Guericke University Magdeburg (2016).
+- Мой стек:
+  - Python, Django, Flask, FastApi;
+  - PostgreSQL, MySQL, SQLAlchemy, Alembic;
+  - Celery, RabbitMQ, Redis;
+  - GitHub, GitLab, git;
+  - Docker, Linux, Nginx, Gunicorn, Uvicorn;
+  - CI/CD.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Мои проекты:
+|Название проекта| Описание проекта| Стек|
+|----------------|-----------------|-----|
+|foodgram (__[github](https://github.com/SadykovIlnur/foodgram)__)|Сайт, на котором пользователи могут публиковать свои рецепты, добавлять чужие рецепты в избранное и подписываться на публикации других авторов. Платформа предоставляет возможность создать, отредактировать или удалить собственный рецепт. Зарегистрированным пользователям также доступен сервис «Список покупок». Он позволит создавать список продуктов, которые нужно купить для приготовления выбранных блюд. Рецепты имеют один или несколько предустановленных тегов. На страницах с рецептами при нажатии на название тега выводится список рецептов, отмеченных этим тегом. Доступен API для проекта. Проект полностью готов для развертывания на удаленном сервере в сети из 4 Docker-контейнеров.|Python, Django, Django REST Framework, React, Nginx, Gunicorn, Docker, PostgreSQL, SQLite, GitHub Actions|
