@@ -6,9 +6,9 @@
 - Меня зовут Ильнур.
 - Я web backend разработчик.
 - Образование:   
-  - Степень бакалавра: Техническая физика, Кафедра ракетных двигателей, КНИТУ-КАИ им. А.Н.Туполева (2014).  
-  - Степень магистра: Теплоэнергетика и теплотехника, Кафедра ТиЭМ, КНИТУ-КАИ им. А.Н.Туполева (2016).
-  - Степень магистра: Chemical and Energy Engineering, Faculty of Process and Systems Engineering, Otto von Guericke University Magdeburg (2016).
+  - Степень бакалавра: Техническая физика, Кафедра ракетных двигателей, КНИТУ-КАИ им. А.Н.Туполева.  
+  - Степень магистра: Теплоэнергетика и теплотехника, Кафедра ТиЭМ, КНИТУ-КАИ им. А.Н.Туполева.
+  - Степень магистра: Chemical and Energy Engineering, Faculty of Process and Systems Engineering, Otto von Guericke University Magdeburg.
 - Мой стек:
   - Python, Django, Flask, FastApi;
   - PostgreSQL, MySQL, SQLAlchemy, Alembic;
